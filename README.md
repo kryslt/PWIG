@@ -29,7 +29,8 @@ as long as its wrapper generators exist.
 - KControls 1.7 or higher (https://github.com/kryslt/KControls)
 
 ## COMPILING:
-1. Install KControls.lpk.
+1. Install Lazarus (official Lazarus releases usually have Free Pascal Compiler integrated).
+1. Install KControls.lpk into Lazarus.
 2. Compile the project PWIG.lpi.
 
 ## USAGE:
