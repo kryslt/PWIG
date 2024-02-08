@@ -1,0 +1,1 @@
+The Delphi RIDL demo not available yet.
